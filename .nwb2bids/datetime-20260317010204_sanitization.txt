@@ -1,1 +1,0 @@
-{"sanitization_config":{"sub_labels":true,"ses_labels":true},"sanitization_file_path":"/data/dandi/bids-dandisets/work/000548/.nwb2bids/datetime-20260317010204_sanitization.txt","original_participant_id":"Fig3_Bi10_08","original_session_id":"BPAE_bipolar_10pulses","sanitized_participant_id":"Fig3+Bi10+08","sanitized_session_id":"BPAE+bipolar+10pulses"}
