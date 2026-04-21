@@ -1,3 +1,4 @@
 dandiset.yaml
 dataset_description.json
 derivatives/dataset_description.json
+sub-Fig3_Bi10_08/ecephys/sub-Fig3_Bi10_08_ecephys.nwb
