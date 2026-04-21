@@ -1,4 +1,3 @@
 dandiset.yaml
 dataset_description.json
 derivatives/dataset_description.json
-sub-Fig3+Bi10+08/ses-BPAE+bipolar+10pulses/ecephys/sub-Fig3+Bi10+08_ses-BPAE+bipolar+10pulses_ecephys.nwb
